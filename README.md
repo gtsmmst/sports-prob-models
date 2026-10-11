@@ -1,5 +1,7 @@
 # sports-prob-models
 
+[![tests](https://github.com/gtsmmst/sports-prob-models/actions/workflows/tests.yml/badge.svg)](https://github.com/gtsmmst/sports-prob-models/actions/workflows/tests.yml)
+
 Small, tested, dependency-free Python package of **sports probability models and
 bet-sizing math**. It is the maths layer extracted from a personal research
 stack that compared model probabilities with prediction-market (Polymarket)
